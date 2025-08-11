@@ -1,0 +1,8 @@
+Title,Status,Description
+"Create GitHub repository 'nestjs-global-ticketing'",Backlog,"Initialize a new GitHub repository for the Global Ticketing project."
+"Add repository description",Backlog,"Add a professional description in English, including main technologies and architecture patterns."
+"Create Project Board 'Global Ticketing — Development Board'",Backlog,"Set up a GitHub Project board with columns: Backlog, In Progress, In Review, Done."
+"Import Module 0 tasks CSV into Project Board",Backlog,"Upload and import the CSV with all Module 0 tasks to the GitHub Project board."
+"Set up initial Git ignore file",Backlog,"Configure a .gitignore file suitable for a NestJS + Node.js project."
+"Initialize NestJS project",Backlog,"Run NestJS CLI to scaffold the initial application structure."
+"Commit and push initial project setup",Backlog,"Commit the initial project structure and push to the remote repository."
